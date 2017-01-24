@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Erik Roe
 
-You can use the [editor on GitHub](https://github.com/roeerik/roeerik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce posuere risus non cursus mollis. Vestibulum commodo, nisi a mollis finibus, urna lectus feugiat urna, aliquet sodales est lectus in magna. Donec venenatis pulvinar justo, quis ornare justo mollis nec. Aenean ut ullamcorper ipsum, vel tempus dui. Aliquam sagittis vestibulum dui sed iaculis. Aliquam erat volutpat. Donec tempor arcu et sagittis porttitor. Curabitur ultrices nibh ac volutpat bibendum. Nullam non purus eu dolor pulvinar placerat ac at urna. Mauris aliquet, metus sed dapibus lacinia, libero sapien feugiat diam, mollis gravida sem dui eget augue. Sed consectetur, diam non bibendum auctor, diam tortor rutrum leo, eget faucibus lectus eros tincidunt mi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roeerik/roeerik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Aenean feugiat vitae erat molestie imperdiet. Nullam volutpat velit rhoncus vestibulum dapibus. Morbi enim dui, venenatis vel dignissim eu, molestie eget massa. Suspendisse potenti. Cras elementum pretium arcu at sodales. Suspendisse potenti. In eu lorem nunc. Nunc lacinia mollis sapien sed pretium.
